@@ -1,0 +1,31 @@
+LEARNING PHP 8
+================
+while running functions no need to 
+add data types in the bracket functions
+
+
+DECLARATION STATEMENT 
+======================
+1.declate ticks
+2.declare-encording
+3.declare-
+
+INCLUDE FILES IN PHP
+=======================
+difference between include and require
+
+INCLUDE:will result an warning while
+
+REQUIRE:wil result an error
+
+STATIC VARRIABLES
+=====================
+Static variables: is 
+
+VARIABE, ANONYMOUS AND CALLABE, CLOSURE & ARROW FUNCTION IN PHP
+===============================================================
+i should find real definitions on google and their finctions
+
+in VARIABLES: we use function name 
+while 
+ANONYMOUS:we don't need funtion name only we add semicolon after function;
